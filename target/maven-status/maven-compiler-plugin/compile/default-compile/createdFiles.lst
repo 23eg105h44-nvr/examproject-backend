@@ -1,0 +1,8 @@
+com\examseating\service\SeatingService.class
+com\examseating\controller\SeatingController.class
+com\examseating\dto\SeatingRequest.class
+com\examseating\model\Room.class
+com\examseating\model\Student.class
+com\examseating\dto\SeatingResponse.class
+com\examseating\model\Seating.class
+com\examseating\ExamSeatingApplication.class
